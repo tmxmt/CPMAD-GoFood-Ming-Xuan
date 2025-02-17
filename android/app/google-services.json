@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990660389031",
+    "project_id": "cpmad-project-10c98",
+    "storage_bucket": "cpmad-project-10c98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990660389031:android:33476f24b0911e49dbd382",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNQwSvjYbRae8dqY7MtL1j_6ottiz3b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
